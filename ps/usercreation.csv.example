@@ -1,0 +1,2 @@
+UserPrincipalName,DisplayName,MailNickname,Password,GivenName,Surname,UsageLocation,JobTitle,Department,ForceChangePassword,AccountEnabled,AddToGroupObjectId
+alex.jones@contoso.onmicrosoft.com,Alex Jones,alexj,,Alex,Jones,US,Security Analyst,Security,Y,True,
